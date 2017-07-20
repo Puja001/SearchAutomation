@@ -83,7 +83,6 @@ public class WalmartSearchFlow {
 
 	    //product Page
 	
-	
 		driver.get("https://www.walmart.com/ip/Garmin-Drive-5-USA-LM-EX-GPS-Navigator/103445019");
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
